@@ -6,3 +6,5 @@
 * [Assignment 3: Analysis of Lab Data](https://nbviewer.jupyter.org/github/kraanky/processSimulation/blob/main/Assignment%203/Assignment-3.ipynb)
 
 * [Assignment 4: Cross-Current Heat Exchanger](https://nbviewer.jupyter.org/github/kraanky/processSimulation/blob/main/Assignment%204/Assignment-4.ipynb)
+
+* [Assignment 5: Upwind Differencing *(WIP)*](https://nbviewer.jupyter.org/github/kraanky/processSimulation/blob/main/Assignment%205/Assignment-5.ipynb)
