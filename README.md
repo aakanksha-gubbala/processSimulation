@@ -8,3 +8,7 @@
 * [Assignment 4: Cross-Current Heat Exchanger](https://nbviewer.jupyter.org/github/kraanky/processSimulation/blob/main/Assignment%204/Assignment-4.ipynb)
 
 * [Assignment 5: Upwind Differencing](https://nbviewer.jupyter.org/github/kraanky/processSimulation/blob/main/Assignment%205/Assignment-5.ipynb)
+
+## Extras
+
+* [Chilller Characteristics](https://nbviewer.jupyter.org/github/kraanky/processSimulation/blob/main/ChillerCharacteristics.ipynb)
