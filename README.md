@@ -11,4 +11,4 @@
 
 ## Extras
 
-* [Chilller Characteristics](https://nbviewer.jupyter.org/github/kraanky/processSimulation/blob/main/ChillerCharacteristics.ipynb)
+* [Chiller Characteristics](https://nbviewer.jupyter.org/github/kraanky/processSimulation/blob/main/ChillerCharacteristics.ipynb)
